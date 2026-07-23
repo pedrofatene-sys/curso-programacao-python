@@ -1,8 +1,8 @@
 // Lista de vídeos do YouTube (IDs extraídos das URLs)
 const channels = [
-    { id: 'LakjhD7SWRE', name: 'aula - 01' },
-    { id: 'e8dQeAIUIs8', name: 'aula - 02' },
-    { id: 'NBUJHxwthHA', name: 'aula - 03' }
+    { id: 'S9uPNppGsGo', name: 'Seja um Programador' },
+    { id: 'Mp0vhMDI7fA', name: 'Para que serve o Python?' },
+    { id: 'VuKvR1J2LQE', name: 'Instalando o Python3 e o IDLE' }
 ];
 
 // Estado atual
